@@ -1,0 +1,34 @@
+{
+	"folders": [
+		{
+			"path": "../../../../react-demo/advance"
+		},
+		{
+			"path": "../../../../react-demo/backend"
+		},
+		{
+			"path": "../../../../react-demo/frontend"
+		},
+		{
+			"path": "../../../../react-demo/movie"
+		},
+		{
+			"path": "../../../../react-demo/node_modules"
+		},
+		{
+			"path": "../../../../react-demo/programs"
+		},
+		{
+			"path": "../../../../react-demo/public"
+		},
+		{
+			"path": "../../../../react-demo/shopping"
+		},
+		{
+			"path": "../../../../react-demo/tinder"
+		},
+		{
+			"path": "../../../../react-demo/whatsapp"
+		}
+	]
+}
